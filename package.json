@@ -1,0 +1,12 @@
+{ 
+   "name": "clearparapc", 
+   "version": "1.3.4", 
+   "description": "clear temp", 
+   "main": "index.js", 
+   "scripts": { 
+     "start": "node index.js && pause" 
+   }, 
+   "keywords": [ "Clear" ], 
+   "author": "SwagDC", 
+   "license": "DC" 
+ }
